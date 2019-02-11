@@ -1,0 +1,7 @@
+
+Ssquid:S1143("5Remove this return statement from this finally block.(Ñ÷‹¾8Â”õÊŒ-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(Æùãèüÿÿÿÿ8ğİ¡Ê-
+Fsquid:S1148%"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8²âğÊŒ-
+Lsquid:S1125")Remove the literal "false" boolean value.(ÒÙš„ÿÿÿÿÿ8«ºéÊŒ-
+dsquid:S2142#"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8²âğÊŒ-
